@@ -14,7 +14,7 @@
 ]]
 
 -- تحميل المكتبة (عدّل المسار حسب طريقتك)
-local ZeoxLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR/REPO/main/ZeoxLib.lua"))()
+local ZeoxLib = loadstring(game:HttpGet("https://github.com/m9oy/Zeox.Ui/raw/refs/heads/main/ZeoxLib.lua"))()
 
 -- Services
 local Players         = game:GetService("Players")
