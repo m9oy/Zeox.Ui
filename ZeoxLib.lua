@@ -43,7 +43,7 @@ local C = {
 -- ═══════════════════════════════════════════════════════════
 local Icon = {
     -- Z logo (large sidebar + title bar)
-    ZLogo    = "rbxassetid://17929804958",
+    ZLogo    = "rbxassetid://101956991637378",
 
     -- Navigation
     Home     = "rbxassetid://7733960981",   -- house
