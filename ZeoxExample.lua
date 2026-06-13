@@ -15,7 +15,7 @@
 -- ────────────────────────────────────────────────────────────
 --  LOAD THE LIBRARY  (adjust path / loadstring as needed)
 -- ────────────────────────────────────────────────────────────
-local ZeoxLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/ZeoxLib.lua"))()
+local ZeoxLib = loadstring(game:HttpGet("https://github.com/m9oy/Zeox.Ui/raw/refs/heads/main/ZeoxLib.lua"))()
 -- For Studio / local file: local ZeoxLib = require(script.Parent.ZeoxLib)
 
 -- ────────────────────────────────────────────────────────────
