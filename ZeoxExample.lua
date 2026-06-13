@@ -15,7 +15,7 @@
 
 -- ── تحميل المكتبة ──────────────────────────────────────────────
 -- الطريقة أ: loadstring من executor
-local ZeoxLib = loadstring(game:HttpGet("YOUR_RAWGIT_URL/ZeoxLib.lua"))()
+local ZeoxLib = loadstring(game:HttpGet("https://github.com/m9oy/Zeox.Ui/raw/refs/heads/main/ZeoxLib.lua"))()
 
 -- الطريقة ب: require إذا وضعت المكتبة داخل اللعبة
 -- local ZeoxLib = require(game.ReplicatedStorage.ZeoxLib)
@@ -24,7 +24,7 @@ local ZeoxLib = loadstring(game:HttpGet("YOUR_RAWGIT_URL/ZeoxLib.lua"))()
 --  ⭐  ضع هنا Asset ID الخاص بشعارك بعد رفعه على Roblox
 --  ارفع ملف ZeoxLogo.png ← انسخ الـ ID ← الصقه هنا
 -- ─────────────────────────────────────────────────────────────
-local LOGO_ASSET_ID = "rbxassetid://YOUR_LOGO_ASSET_ID"
+local LOGO_ASSET_ID = "rbxassetid://101956991637378"
 -- مثال بعد الرفع:
 -- local LOGO_ASSET_ID = "rbxassetid://17929804958"
 
